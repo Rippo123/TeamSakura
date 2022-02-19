@@ -1,1 +1,1 @@
-worker: command worker_file.conf
+worker: python3 bot.py
