@@ -34,7 +34,7 @@ class script(object):
 """
     ABOUT_TXT = """
 🕊️ 𝖬𝗒 𝖭𝖺𝗆𝖾 : XFC_Bot
-🕊️ 𝖢𝗋𝖾𝖺𝗍𝗈𝗋 : <a href='https://t.me/Bad_Bunny_444'>Bad_Bunny_444</a> 𝖫𝖺𝗇𝗀𝗎𝖺𝗀𝖾 : 𝖯𝗒𝗍𝗁𝗈𝗇 𝟥 
+🕊️ 𝖢𝗋𝖾𝖺𝗍𝗈𝗋 : <a href='https://t.me/Bad_Bunny_444'>ᵀʰᵉ вα∂ вυηηу 🇮🇳/🇬🇧</a> 𝖫𝖺𝗇𝗀𝗎𝖺𝗀𝖾 : 𝖯𝗒𝗍𝗁𝗈𝗇 𝟥 
 🕊️ 𝖫𝗂𝖻𝗋𝖺𝗋𝗒 : 𝖯𝗒𝗋𝗈𝗀𝗋𝖺𝗆 𝖺𝗌𝗒𝗇𝖼𝗂𝗈 𝟢.𝟣𝟩.𝟣
 🕊️ 𝖲𝖾𝗋𝗏𝖾𝗋 : <a href='https://www.heroku.com'>𝖧𝖾𝗋𝗈𝗄𝗎</a>
 🕊️ 𝖣𝖺𝗍𝖺𝖻𝖺𝗌𝖾 : <a href='https://www.mongodb.com'>𝖬𝗈𝗇𝗀𝗈𝖣𝖡 𝖥𝗋𝖾𝖾 𝖳𝗂𝖾𝗋</a>
@@ -65,7 +65,7 @@ Google's TTS engine by way of the gTTS library
 <b>𝖴𝗌𝖺𝗀𝖾</b>
 - 𝖢𝗈𝗎𝗅𝖽 𝖻𝖾 𝗎𝗌𝖾𝖽 𝗂𝗇 𝗉𝗆 𝖺𝗇𝖽 𝗀𝗋𝗈𝗎𝗉𝗌
      
-𝖬𝖺𝖽𝖾 𝖻𝗒 @SakuraBotUpdates ❤️
+𝖬𝖺𝖽𝖾 𝖻𝗒 @The_Bad_Bunny_444 ❤️
     """
     BAN_TXT = """<b>𝖡𝖺𝗇𝗌:</b>
 𝖲𝗈𝗆𝖾 𝗉𝖾𝗈𝗉𝗅𝖾 𝗇𝖾𝖾𝖽 𝗍𝗈 𝖻𝖾 𝗉𝗎𝖻𝗅𝗂𝖼𝗅𝗒 𝖻𝖺𝗇𝗇𝖾𝖽; 𝗌𝗉𝖺𝗆𝗆𝖾𝗋𝗌, 𝖺𝗇𝗇𝗈𝗒𝖺𝗇𝖼𝖾𝗌, 𝗈𝗋 𝗃𝗎𝗌𝗍 𝗍𝗋𝗈𝗅𝗅𝗌.  
